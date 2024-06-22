@@ -279,6 +279,7 @@ section {
 
 .about-pic {
     border-radius: 2rem;
+    height: 27rem;
 }
 
 .arrow {
@@ -319,7 +320,7 @@ section {
     font-weight: 600;
     font-size: 1.75rem;
     margin-bottom: 2rem;
-}
+}.
 
 .experience-details-container {
     display: flex;
@@ -333,13 +334,14 @@ section {
     flex-wrap: wrap;
     flex-direction: row;
     gap: 2.5rem;
-    justify-content: space-around;
+    justify-content:space-evenly ;
+    margin-bottom: 1rem;
 }
 
 article {
     display: flex;
     width: 10rem;
-    justify-content: space-around;
+    justify-content: ;
     gap: 0.5rem;
 }
 
